@@ -2,7 +2,7 @@
 - 👀 I’m interested in reading
 - 🌱 I’m currently learning software engineeer course
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (https://www.linkedin.com/in/omnia-ibrahim-osman/)
+- 📫 How to reach me (https://www.linkedin.com/in/omnia92/)
 
 <!---
 Omniaibrahim93/Omniaibrahim93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
