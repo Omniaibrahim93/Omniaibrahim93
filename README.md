@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omniaibrahim93
 - 👀 I’m interested in reading
-- 🌱 I’m currently learning software engineeer course
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://www.linkedin.com/in/omnia92/)
 
