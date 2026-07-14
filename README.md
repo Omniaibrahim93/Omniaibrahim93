@@ -15,6 +15,7 @@ I'm currently building a hands-on Cloud Engineering Portfolio focused on Azure, 
 My goal is to transition into a Cloud/DevOps engineering role by demonstrating practical engineering skills through documented projects rather than certifications alone.
 
 🚀 Current Focus
+
 Microsoft Azure
 Terraform
 Kubernetes
@@ -23,6 +24,7 @@ Windows Server
 Cloud Security
 Automation
 DevOps
+
 🏅 Certifications
 
 ✅ AZ-104
@@ -36,6 +38,7 @@ DevOps
 ✅ KCNA
 
 📚 Currently Working On
+
 ☁️ Azure Labs
 🐧 Linux Troubleshooting Labs
 🪟 Windows Troubleshooting Labs
