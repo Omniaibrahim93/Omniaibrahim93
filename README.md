@@ -7,12 +7,11 @@ Cloud Support Specialist | Azure | KCNA | Terraform | Kubernetes | Linux
 🐧 Linux Enthusiast
 🚀 Building Cloud Engineering Portfolio
 
-
 Cloud Support Specialist with 8+ years of enterprise IT experience specializing in Microsoft Azure, cloud operations, Linux, Windows Server, infrastructure automation, and Kubernetes.
-
+________________________________________
 I'm currently building a hands-on Cloud Engineering Portfolio focused on Azure, Terraform, Kubernetes, Linux administration, and real-world troubleshooting scenarios.
-
 My goal is to transition into a Cloud/DevOps engineering role by demonstrating practical engineering skills through documented projects rather than certifications alone.
+
 <img width="1048" height="14" alt="image" src="https://github.com/user-attachments/assets/5e1b4d12-ca4f-4f26-aca5-cb62978db18f" />
 
 🚀 Current Focus
