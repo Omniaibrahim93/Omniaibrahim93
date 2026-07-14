@@ -41,6 +41,6 @@ ________________________________________
 ________________________________________
 📫 Connect with me
 - 💼 LinkedIn: [Omnia Ibrahim](https://www.linkedin.com/in/omnia92/)
-- 📧 Email: your-email@gmail.com
+- 📧 Email: umniaibrahem@gmail.com
 
 
