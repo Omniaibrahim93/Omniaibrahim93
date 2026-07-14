@@ -17,12 +17,19 @@ My goal is to transition into a Cloud/DevOps engineering role by demonstrating p
 🚀 Current Focus
 
 •	Microsoft Azure
+
 •	Terraform
-•	Kubernetes 
+
+•	Kubernetes
+
 •	Linux Administration
+
 •	Windows Server 
+
 •	Cloud Security 
+
 •	Automation 
+
 •	DevOps
 
 
@@ -41,12 +48,19 @@ My goal is to transition into a Cloud/DevOps engineering role by demonstrating p
 📚 Currently Working On
 
 ☁️ Azure Labs
+
 🐧 Linux Troubleshooting Labs
+
 🪟 Windows Troubleshooting Labs
+
 ⚙️ Terraform Labs
+
 ☸ Kubernetes Labs
+
 🚀 100 Days of DevOps
+
 ☁️ 100 Days of Cloud
+
 📫 Connect
 
 
