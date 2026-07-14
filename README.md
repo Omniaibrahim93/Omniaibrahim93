@@ -32,6 +32,7 @@ My goal is to transition into a Cloud/DevOps engineering role by demonstrating p
 
 •	DevOps
 
+<img width="1048" height="14" alt="image" src="https://github.com/user-attachments/assets/e21b51b3-6b94-4c36-aa31-64c571d1b1ac" />
 
 🏅 Certifications
 
