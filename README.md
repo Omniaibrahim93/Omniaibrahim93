@@ -6,9 +6,49 @@ Cloud Support Specialist | Azure | KCNA | Terraform | Kubernetes | Linux
 ☁️ Azure Administrator
 🐧 Linux Enthusiast
 🚀 Building Cloud Engineering Portfolio
-- 📫 How to reach me (https://www.linkedin.com/in/omnia92/)
 
-<!---
-Omniaibrahim93/Omniaibrahim93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Cloud Support Specialist with 8+ years of enterprise IT experience specializing in Microsoft Azure, cloud operations, Linux, Windows Server, infrastructure automation, and Kubernetes.
+
+I'm currently building a hands-on Cloud Engineering Portfolio focused on Azure, Terraform, Kubernetes, Linux administration, and real-world troubleshooting scenarios.
+
+My goal is to transition into a Cloud/DevOps engineering role by demonstrating practical engineering skills through documented projects rather than certifications alone.
+
+🚀 Current Focus
+Microsoft Azure
+Terraform
+Kubernetes
+Linux Administration
+Windows Server
+Cloud Security
+Automation
+DevOps
+🏅 Certifications
+
+✅ AZ-104
+
+✅ AZ-900
+
+✅ AI-900
+
+✅ MS-900
+
+✅ KCNA
+
+📚 Currently Working On
+☁️ Azure Labs
+🐧 Linux Troubleshooting Labs
+🪟 Windows Troubleshooting Labs
+⚙️ Terraform Labs
+☸ Kubernetes Labs
+🚀 100 Days of DevOps
+☁️ 100 Days of Cloud
+📫 Connect
+
+LinkedIn
+
+Email
+
+GitHub
+
+
