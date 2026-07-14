@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Omniaibrahim93
-- 👀 I’m interested in reading
-- 🌱 I’m currently learning AI/ML
-- 💞️ I’m looking to collaborate on ...
+Omnia Ibrahim
+Cloud Support Specialist | Azure | KCNA | Terraform | Kubernetes | Linux
+
+📍 Abu Dhabi, UAE
+💼 8+ Years IT Experience
+☁️ Azure Administrator
+🐧 Linux Enthusiast
+🚀 Building Cloud Engineering Portfolio
 - 📫 How to reach me (https://www.linkedin.com/in/omnia92/)
 
 <!---
