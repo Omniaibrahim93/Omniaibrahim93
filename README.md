@@ -16,16 +16,15 @@ My goal is to transition into a Cloud/DevOps engineering role by demonstrating p
 
 🚀 Current Focus
 
-Microsoft Azure
+•	Microsoft Azure
+•	Terraform
+•	Kubernetes 
+•	Linux Administration
+•	Windows Server 
+•	Cloud Security 
+•	Automation 
+•	DevOps
 
-Terraform
-
-Kubernetes
-Linux Administration
-Windows Server
-Cloud Security
-Automation
-DevOps
 
 🏅 Certifications
 
@@ -49,6 +48,7 @@ DevOps
 🚀 100 Days of DevOps
 ☁️ 100 Days of Cloud
 📫 Connect
+
 
 LinkedIn
 
