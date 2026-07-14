@@ -17,7 +17,9 @@ My goal is to transition into a Cloud/DevOps engineering role by demonstrating p
 🚀 Current Focus
 
 Microsoft Azure
+
 Terraform
+
 Kubernetes
 Linux Administration
 Windows Server
