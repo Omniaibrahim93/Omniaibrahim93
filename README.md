@@ -45,6 +45,7 @@ My goal is to transition into a Cloud/DevOps engineering role by demonstrating p
 ✅ MS-900
 
 ✅ KCNA
+<img width="1048" height="14" alt="image" src="https://github.com/user-attachments/assets/70c02428-364e-4371-95f0-3efcf2884b02" />
 
 📚 Currently Working On
 
@@ -61,9 +62,9 @@ My goal is to transition into a Cloud/DevOps engineering role by demonstrating p
 🚀 100 Days of DevOps
 
 ☁️ 100 Days of Cloud
+<img width="1048" height="14" alt="image" src="https://github.com/user-attachments/assets/673811f5-63f0-41c9-a102-c93f2a916739" />
 
 📫 Connect
-
 
 LinkedIn
 
