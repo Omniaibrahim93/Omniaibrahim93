@@ -66,8 +66,8 @@ ________________________________________
 
 | Phase | Repository | Description | Status |
 |------|------------|-------------|--------|
-| Phase 1 — Linux Administration | linux-windows-troubleshooting | Linux administration, Windows Server, Active Directory, networking, troubleshooting scenarios, incident response, documentation | 🔨 In Progress |
-| Phase 7 — Windows Administration | cloud-security-labs | Microsoft Defender, Azure Security Center, IAM, RBAC, Key Vault, security hardening | ⏳ Upcoming |
+| Phase 1 — Linux Administration | linux-troubleshooting | Linux administration, Active Directory, networking, troubleshooting scenarios, incident response, documentation | 🔨 In Progress |
+| Phase 2 — Windows Administration | windows-troubleshooting | Microsoft Defender, Azure Security Center, IAM, RBAC, Key Vault, security hardening | ⏳ Upcoming |
 | Phase 8 — Cloud Challenges | 100-days-of-devops | Daily DevOps labs, automation exercises, infrastructure projects | 🚀 Ongoing |
 | Phase 8 — Cloud Challenges | 100-days-of-cloud | Daily Azure & Cloud Engineering labs, architecture, networking, troubleshooting | 🚀 Ongoing |
 | Phase 2 — Azure Cloud Engineering | azure-labs | Azure Virtual Machines, VNets, NSGs, Storage, Backup, Azure Monitor, Load Balancer, Recovery Services, Bastion | 🔨 In Progress |
