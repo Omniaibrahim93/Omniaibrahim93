@@ -64,18 +64,20 @@ ________________________________________
 
 📁 Portfolio Repositories by Phase
 
-| Phase | Repository | Description | Status |
-|------|------------|-------------|--------|
-| Phase 1 — Linux Administration | linux-troubleshooting | Linux administration, Active Directory, networking, troubleshooting scenarios, incident response, documentation | 🔨 In Progress |
-| Phase 2 — Windows Administration | windows-troubleshooting | Microsoft Defender, Azure Security Center, IAM, RBAC, Key Vault, security hardening | ⏳ Upcoming |
-| Phase 8 — Cloud Challenges | 100-days-of-devops | Daily DevOps labs, automation exercises, infrastructure projects | 🚀 Ongoing |
-| Phase 8 — Cloud Challenges | 100-days-of-cloud | Daily Azure & Cloud Engineering labs, architecture, networking, troubleshooting | 🚀 Ongoing |
-| Phase 2 — Azure Cloud Engineering | azure-labs | Azure Virtual Machines, VNets, NSGs, Storage, Backup, Azure Monitor, Load Balancer, Recovery Services, Bastion | 🔨 In Progress |
-| Phase 7 — Cloud Security | cloud-security-labs | Microsoft Defender, Azure Security Center, IAM, RBAC, Key Vault, security hardening | ⏳ Upcoming |
-| Phase 4 — Containers & Kubernetes | kubernetes-labs | Docker, Kubernetes, AKS, Helm, networking, RBAC, deployments, troubleshooting | ⏳ Upcoming |
-| Phase 3 — Infrastructure as Code | terraform-labs | Terraform for Azure & AWS, reusable modules, remote state, variables, GitHub Actions integration | ⏳ Upcoming |
-| Phase 5 — Automation & DevOps | automation-labs | Bash, PowerShell, Ansible, GitHub Actions, CI/CD pipelines | ⏳ Upcoming |
-| Phase 6 — Monitoring & Observability | monitoring-labs | Azure Monitor, Prometheus, Grafana, Alertmanager, Dynatrace, logging & alerting | ⏳ Upcoming |
+## 📁 Learning Roadmap
+
+| Phase | Repository | Status |
+|-------|------------|--------|
+| **Phase 1** 🐧 Linux Administration & Troubleshooting | `linux-administration-lab` | 🔨 In Progress |
+| **Phase 2** 🪟 Windows Server Administration & Troubleshooting | `windows-server-lab` | ⏳ Planned |
+| **Phase 3** 🚀 100 Days of DevOps | `100-days-devops` | ⏳ In Progress |
+| **Phase 4** ☁️ 100 Days of Cloud | `100-days-cloud` | ⏳ In Progress |
+| **Phase 5** ☁️ Microsoft Azure | `azure-cloud-lab` | ⏳ Planned |
+| **Phase 6** ⚙️ Terraform & Infrastructure as Code | `terraform-iac-lab` | ⏳ Planned |
+| **Phase 7** ☸ Kubernetes & Cloud Native | `kubernetes-platform-lab` | ⏳ Planned |
+| **Phase 8** 🤖 Automation (Bash • PowerShell • Ansible) | `automation-lab` | ⏳ Planned |
+| **Phase 9** 📊 Monitoring & Observability | `monitoring-observability-lab` | ⏳ Planned |
+| **Phase 10** 🔐 Cloud Security | `cloud-security-lab` | ⏳ Planned |
 
 ________________________________________
 📫 Connect with me
