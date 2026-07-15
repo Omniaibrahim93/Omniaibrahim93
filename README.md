@@ -58,9 +58,9 @@ ________________________________________
 
 •	☸ Kubernetes Labs
 
-•	🚀 100 Days of DevOps 
+•	🚀 100 Days of DevOps Challenge (KloudKode)
 
-•	☁️ 100 Days of Cloud 
+•	☁️ 100 Days of Cloud Challenge (KloudKode)
 ________________________________________
 
 📁 Portfolio Repositories by Phase
