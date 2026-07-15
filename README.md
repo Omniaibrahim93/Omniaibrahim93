@@ -40,9 +40,11 @@ ________________________________________
 | Certification | Credential |
 |--------------|------------|
 | ✅ AZ-104 | [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/OmniaIbrahimosmanAbdelgadirE-3296/2EBE9021A82F0C08?sharingId=6BEF4C350B2E6054) |
-| ✅ AI-900 | [View Certificate]([YOUR_AI900_LINK](https://learn.microsoft.com/api/credentials/share/en-us/OmniaIbrahimosmanAbdelgadirE-3296/4A74AC58BBFC587F?sharingId=6BEF4C350B2E6054)) |
+| ✅ AI-900 | [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/OmniaIbrahimosmanAbdelgadirE-3296/4A74AC58BBFC587F?sharingId=6BEF4C350B2E6054)) |
 | ✅ MS-900 | [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/OmniaIbrahimosmanAbdelgadirE-3296/75AA57A934AAED02?sharingId=6BEF4C350B2E6054)) |
-| ✅ KCNA | [View Certificate](YOUR_KCNA_LINK) |
+| ✅ KCNA | [View Certificate](https://www.credly.com/badges/17b224a4-2ccd-4c6a-8d91-24c4599dae9c/public_url) |
+| ✅ Introduction to Kubernates | [View Certificate](https://www.credly.com/badges/17b224a4-2ccd-4c6a-8d91-24c4599dae9c/public_url) |
+| ✅ KIntroduction to Linux | [View Certificate](https://www.credly.com/badges/140fdd92-c606-4959-9379-9543b9d9a3e5/public_url) |
 ________________________________________
 📚 Currently Working On
 
