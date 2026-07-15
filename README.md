@@ -62,28 +62,20 @@ ________________________________________
 •	☁️ 100 Days of Cloud 
 ________________________________________
 
-Phase	Repository	Status
+📁 Learning Roadmap
 
-Phase 1 🐧 Linux Administration & Troubleshooting 
-
-Phase 2 🪟 Windows Server Administration & Troubleshooting 	
-
-Phase 3 ☁️ Microsoft Azure 		
-
-Phase 4 ⚙️ Terraform & Infrastructure as Code
-
-Phase 5 ☸ Kubernetes & Cloud Native 
-
-Phase 6 🤖 Automation (Bash • PowerShell • Ansible) 
-
-Phase 7 📊 Monitoring & Observability 	
-
-Phase 8 🔐 Cloud Security 		
-
-Phase 9 🚀 100 Days of DevOps 	
-
-Phase 10 ☁️ 100 Days of Cloud		
-
+| Phase | Repository | Status |
+|-------|------------|--------|
+| **Phase 1** 🐧 Linux Administration & Troubleshooting | `linux-administration-lab` | 🔨 In Progress |
+| **Phase 2** 🪟 Windows Server Administration & Troubleshooting | `windows-server-lab` | ⏳ Planned |
+| **Phase 3** ☁️ Microsoft Azure | `azure-cloud-lab` | ⏳ Planned |
+| **Phase 4** ⚙️ Terraform & Infrastructure as Code | `terraform-iac-lab` | ⏳ Planned |
+| **Phase 5** ☸ Kubernetes & Cloud Native | `kubernetes-platform-lab` | ⏳ Planned |
+| **Phase 6** 🤖 Automation (Bash • PowerShell • Ansible) | `automation-lab` | ⏳ Planned |
+| **Phase 7** 📊 Monitoring & Observability | `monitoring-observability-lab` | ⏳ Planned |
+| **Phase 8** 🔐 Cloud Security | `cloud-security-lab` | ⏳ Planned |
+| **Phase 9** 🚀 100 Days of DevOps | `100-days-devops` | ⏳ Planned |
+| **Phase 10** ☁️ 100 Days of Cloud | `100-days-cloud` | ⏳ Planned |
 ________________________________________
 📫 Connect with me
 - 💼 LinkedIn: [Omnia Ibrahim](https://www.linkedin.com/in/omnia92/)
