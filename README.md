@@ -63,15 +63,25 @@ ________________________________________
 ________________________________________
 
 Phase	Repository	Status
-Phase 1 🐧 Linux Administration & Troubleshooting 		
-Phase 2 🪟 Windows Server Administration & Troubleshooting 		
+
+Phase 1 🐧 Linux Administration & Troubleshooting 
+
+Phase 2 🪟 Windows Server Administration & Troubleshooting 	
+
 Phase 3 ☁️ Microsoft Azure 		
-Phase 4 ⚙️ Terraform & Infrastructure as Code 		
-Phase 5 ☸ Kubernetes & Cloud Native 		
-Phase 6 🤖 Automation (Bash • PowerShell • Ansible) 		
-Phase 7 📊 Monitoring & Observability 		
+
+Phase 4 ⚙️ Terraform & Infrastructure as Code
+
+Phase 5 ☸ Kubernetes & Cloud Native 
+
+Phase 6 🤖 Automation (Bash • PowerShell • Ansible) 
+
+Phase 7 📊 Monitoring & Observability 	
+
 Phase 8 🔐 Cloud Security 		
-Phase 9 🚀 100 Days of DevOps 		
+
+Phase 9 🚀 100 Days of DevOps 	
+
 Phase 10 ☁️ 100 Days of Cloud		
 
 ________________________________________
