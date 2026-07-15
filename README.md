@@ -78,7 +78,7 @@ ________________________________________
 | **Phase 10** ☁️ 100 Days of Cloud | `100-days-cloud` | ⏳ Planned |
 ________________________________________
 📫 Connect with me
-- 💼 LinkedIn: [Omnia Ibrahim](https://www.linkedin.com/in/omnia92/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/omnia92/)
 - 📧 Email: umniaibrahem@gmail.com
 
 
