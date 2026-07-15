@@ -78,7 +78,10 @@ ________________________________________
 | **Phase 10** ☁️ 100 Days of Cloud | `100-days-cloud` | ⏳ Planned |
 ________________________________________
 📫 Connect with me
-- 💼 [LinkedIn](https://www.linkedin.com/in/omnia92/)
-- 📧 Email: umniaibrahem@gmail.com
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omnia92)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 
