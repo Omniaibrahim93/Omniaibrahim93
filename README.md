@@ -78,7 +78,6 @@ ________________________________________
 | **Phase 10** ☁️ 100 Days of Cloud | `100-days-cloud` | ⏳ Planned |
 ________________________________________
 📫 Connect with me
-## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omnia92)
 
