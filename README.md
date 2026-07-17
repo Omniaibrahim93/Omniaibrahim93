@@ -16,7 +16,7 @@ ________________________________________
 I'm currently building a hands-on Cloud Engineering Portfolio focused on Azure, Terraform, Kubernetes, Linux administration, and real-world troubleshooting scenarios.
 My goal is to transition into a Cloud/DevOps engineering role by demonstrating practical engineering skills through documented projects rather than certifications alone.
 ________________________________________
-🚀 Current Focus
+🚀 Current Focus:
 
 •	Microsoft Azure 
 
@@ -35,7 +35,7 @@ ________________________________________
 •	DevOps 
 
 ________________________________________
-🚀 🏅 Certifications
+🚀 🏅 Certifications:
 
 | Certification | Credential |
 |--------------|------------|
@@ -46,7 +46,7 @@ ________________________________________
 | ✅ Introduction to Kubernates | [View Certificate](https://www.credly.com/badges/17b224a4-2ccd-4c6a-8d91-24c4599dae9c/public_url) |
 | ✅ KIntroduction to Linux | [View Certificate](https://www.credly.com/badges/140fdd92-c606-4959-9379-9543b9d9a3e5/public_url) |
 ________________________________________
-🛠️ Technical Skills
+🛠️ Technical Skills:
 
 | Category                | Skills                                                                                                       |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------ |
@@ -63,7 +63,7 @@ ________________________________________
 | Collaboration           | Jira, ServiceNow, Microsoft Teams                                                                            |
 
 ________________________________________
-📚 Currently Working On
+📚 Currently Working On:
 
 •	☁️ Azure Labs 
 
@@ -81,7 +81,7 @@ ________________________________________
 
 ________________________________________
 
-📁 Portfolio Repositories by Phase
+📁 Portfolio Repositories by Phase:
 
 | Phase | Repository | Status |
 |-------|------------|--------|
@@ -97,7 +97,7 @@ ________________________________________
 | **Phase 10** 🔐 Cloud Security | `cloud-security-lab` | ⏳ Planned |
 
 ________________________________________
-📫 Connect with me
+📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omnia92)
 
