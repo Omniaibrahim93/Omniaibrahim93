@@ -46,6 +46,8 @@ ________________________________________
 | ✅ Introduction to Kubernates | [View Certificate](https://www.credly.com/badges/17b224a4-2ccd-4c6a-8d91-24c4599dae9c/public_url) |
 | ✅ KIntroduction to Linux | [View Certificate](https://www.credly.com/badges/140fdd92-c606-4959-9379-9543b9d9a3e5/public_url) |
 ________________________________________
+🛠️ Technical Skills
+
 | Category                | Skills                                                                                                       |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------ |
 | Cloud                   | Microsoft Azure, Azure Virtual Machines, Virtual Networks, NSGs, Load Balancers, Azure Backup, Azure Monitor |
