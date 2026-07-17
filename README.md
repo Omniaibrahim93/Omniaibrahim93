@@ -82,8 +82,6 @@ ________________________________________
 
 📁 Portfolio Repositories by Phase
 
-## 📁 Learning Roadmap
-
 | Phase | Repository | Status |
 |-------|------------|--------|
 | **Phase 1** 🐧 Linux Administration & Troubleshooting | [linux-administration-lab](https://github.com/Omniaibrahim93/Linux-Troubleshooting) | 🔨 In Progress |
