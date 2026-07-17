@@ -70,7 +70,7 @@ ________________________________________
 | Phase | Repository | Status |
 |-------|------------|--------|
 | **Phase 1** 🐧 Linux Administration & Troubleshooting | [linux-administration-lab](https://github.com/Omniaibrahim93/Linux-Troubleshooting) | 🔨 In Progress |
-| **Phase 2** 🪟 Windows Server Administration & Troubleshooting | `windows-server-lab` | ⏳ Planned |
+| **Phase 2** 🪟 Windows Server Administration & Troubleshooting | [windows-server-lab] (https://github.com/Omniaibrahim93/Windows-Troubleshooting) | ⏳ Planned |
 | **Phase 3** 🚀 100 Days of DevOps | `100-days-devops` | ⏳ In Progress |
 | **Phase 4** ☁️ 100 Days of Cloud | `100-days-cloud` | ⏳ In Progress |
 | **Phase 5** ☁️ Microsoft Azure | `azure-cloud-lab` | ⏳ Planned |
