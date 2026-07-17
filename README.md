@@ -46,6 +46,21 @@ ________________________________________
 | ✅ Introduction to Kubernates | [View Certificate](https://www.credly.com/badges/17b224a4-2ccd-4c6a-8d91-24c4599dae9c/public_url) |
 | ✅ KIntroduction to Linux | [View Certificate](https://www.credly.com/badges/140fdd92-c606-4959-9379-9543b9d9a3e5/public_url) |
 ________________________________________
+| Category                | Skills                                                                                                       |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Cloud                   | Microsoft Azure, Azure Virtual Machines, Virtual Networks, NSGs, Load Balancers, Azure Backup, Azure Monitor |
+| Operating Systems       | Windows Server, Windows 10/11, Linux (Ubuntu, CentOS)                                                        |
+| Identity & Productivity | Microsoft 365, Azure Active Directory (Microsoft Entra ID), Intune                                           |
+| Virtualization          | VMware ESXi, Hyper-V                                                                                         |
+| Networking              | TCP/IP, DNS, DHCP, VPN, Routing, Firewalls                                                                   |
+| Monitoring              | Azure Monitor, Cloud Eye, Dynatrace                                                                          |
+| Infrastructure          | Virtual Machines, Storage, Backup & Disaster Recovery                                                        |
+| Automation              | PowerShell, Bash, Git, GitHub                                                                                |
+| Containers              | Docker, Kubernetes (Learning)                                                                                |
+| ITSM                    | BMC Remedy, EasyVista                                                                                        |
+| Collaboration           | Jira, ServiceNow, Microsoft Teams                                                                            |
+
+________________________________________
 📚 Currently Working On
 
 •	☁️ Azure Labs 
