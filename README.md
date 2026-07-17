@@ -70,9 +70,9 @@ ________________________________________
 | Phase | Repository | Status |
 |-------|------------|--------|
 | **Phase 1** 🐧 Linux Administration & Troubleshooting | [linux-administration-lab](https://github.com/Omniaibrahim93/Linux-Troubleshooting) | 🔨 In Progress |
-| **Phase 2** 🐧 Windows Administration & Troubleshooting | [Windows-administration-lab](https://github.com/Omniaibrahim93/Windows-Troubleshooting) | ⏳ Planned |
+| **Phase 2** 🪟 Windows Administration & Troubleshooting | [Windows-administration-lab](https://github.com/Omniaibrahim93/Windows-Troubleshooting) | ⏳ Planned |
 | **Phase 3** 🚀 100 Days of DevOps | [100 Days of DevOps](https://github.com/Omniaibrahim93/100-Days-of-Devops) | 🔨 In Progress |
-| **Phase 4** ☁️ 100 Days of Cloud | `100-days-cloud` | ⏳ In Progress |
+| **Phase 4** ☁️ 100 Days of Cloud | [100 Days of Cloud ](https://github.com/Omniaibrahim93/100-Days-of-Cloud) | 🔨 In Progress |
 | **Phase 5** ☁️ Microsoft Azure | `azure-cloud-lab` | ⏳ Planned |
 | **Phase 6** ⚙️ Terraform & Infrastructure as Code | `terraform-iac-lab` | ⏳ Planned |
 | **Phase 7** ☸ Kubernetes & Cloud Native | `kubernetes-platform-lab` | ⏳ Planned |
