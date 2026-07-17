@@ -69,15 +69,16 @@ ________________________________________
 
 •	🐧 Linux Troubleshooting Labs 
 
+•	🚀 100 Days of DevOps Challenge (KloudKode)
+
+•	☁️ 100 Days of Cloud Challenge (KloudKode)
+
 •	🪟 Windows Troubleshooting Labs 
 
 •	⚙️ Terraform Labs 
 
 •	☸ Kubernetes Labs
 
-•	🚀 100 Days of DevOps Challenge (KloudKode)
-
-•	☁️ 100 Days of Cloud Challenge (KloudKode)
 ________________________________________
 
 📁 Portfolio Repositories by Phase
